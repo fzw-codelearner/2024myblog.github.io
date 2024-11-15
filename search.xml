@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>把爱好当作事业是不是长久之路</title>
-    <url>/fzw-codelearner/2024myblog.github.io/2024/11/14/LoveToCareer/</url>
+    <url>/2024myblog.github.io/2024/11/14/LoveToCareer/</url>
     <content><![CDATA[<p>个人题解： 当代社会每个人都有着自己的爱好，当我们把象牙塔里珍藏的美好爱好当作致力追求的事业时，它是会中道崩殂，在社会现实的压迫下终究无法长久；还是会在爱好的驱动下，不断地披荆斩棘，让事业长久下去。<br>符号说明：“–&gt;”代表逻辑链上的推导过程，“–||–”代表逻辑上并列的关系</p>
 <h1 id="辩论赛复盘"><a href="#辩论赛复盘" class="headerlink" title="辩论赛复盘"></a>辩论赛复盘</h1><h2 id="立论："><a href="#立论：" class="headerlink" title="立论："></a>立论：</h2><div class="tabs" id="tab-立论"><ul class="nav-tabs"><li class="tab active"><a class="#立论-1">正方立论</a></li><li class="tab"><a class="#立论-2">反方立论</a></li></ul><div class="tab-content"><div class="tab-pane active" id="立论-1"><p>正方：把爱好当作事业是长久之路<br>定义方面：</p>
 <ol>
@@ -33,14 +33,24 @@
       </tags>
   </entry>
   <entry>
+    <title>苏州之旅</title>
+    <url>/2024myblog.github.io/2024/11/14/mytravel/</url>
+    <content><![CDATA[<h1 id="视频介绍"><a href="#视频介绍" class="headerlink" title="视频介绍"></a>视频介绍</h1><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=628927744&bvid=BV13t4y1B7sT&cid=291954308&p=1" scrolling="yes" border="0" frameborder="yes" framespacing="0" allowfullscreen="true" width="900" height="675"></iframe>
+
+<h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
+      <tags>
+        <tag>travel</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>网站使用指南</title>
-    <url>/fzw-codelearner/2024myblog.github.io/2024/11/13/mannul/</url>
+    <url>/2024myblog.github.io/2024/11/13/mannul/</url>
     <content><![CDATA[<h1 id="页面"><a href="#页面" class="headerlink" title="页面"></a>页面</h1><ul>
 <li><input disabled="" type="checkbox"> 右下角的<strong>设置图标</strong>可以调出以下功能</li>
 <li><input disabled="" type="checkbox"> <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/fzw-codelearner/2024myblog.github.io/images/image.png"
+                     data-src="/2024myblog.github.io/images/image.png"
                       alt="alt text"
                 ><ul>
 <li><input disabled="" type="checkbox"> 页面<strong>放大</strong></li>
@@ -54,7 +64,7 @@
 <li><input disabled="" type="checkbox"> <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/fzw-codelearner/2024myblog.github.io/images/image1.png"
+                     data-src="/2024myblog.github.io/images/image1.png"
                       alt="alt text"
                 ></li>
 </ul>
@@ -63,7 +73,7 @@
 <li><input disabled="" type="checkbox"> <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/fzw-codelearner/2024myblog.github.io/images/image2.png"
+                     data-src="/2024myblog.github.io/images/image2.png"
                       alt="alt text"
                 ><ul>
 <li><input disabled="" type="checkbox"> 可以跳转到<strong>标签集合</strong>页面，进而跳转到感兴趣的页面</li>
@@ -80,7 +90,7 @@
 <li><input disabled="" type="checkbox"> <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/fzw-codelearner/2024myblog.github.io/images/image3.png"
+                     data-src="/2024myblog.github.io/images/image3.png"
                       alt="alt text"
                 ><ul>
 <li><input disabled="" type="checkbox"> 可以跳转到<strong>标签集合</strong>页面，进而跳转到感兴趣的页面</li>
@@ -94,7 +104,7 @@
 <li><input disabled="" type="checkbox"> <img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/fzw-codelearner/2024myblog.github.io/images/image4.png"
+                     data-src="/2024myblog.github.io/images/image4.png"
                       alt="alt text"
                 ><ul>
 <li><input disabled="" type="checkbox"> 支持<strong>顺序、随机播放</strong></li>
@@ -107,16 +117,6 @@
 ]]></content>
       <tags>
         <tag>mannul</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>苏州之旅</title>
-    <url>/fzw-codelearner/2024myblog.github.io/2024/11/14/mytravel/</url>
-    <content><![CDATA[<h1 id="视频介绍"><a href="#视频介绍" class="headerlink" title="视频介绍"></a>视频介绍</h1><iframe src="//player.bilibili.com/player.html?isOutside=true&aid=628927744&bvid=BV13t4y1B7sT&cid=291954308&p=1" scrolling="yes" border="0" frameborder="yes" framespacing="0" allowfullscreen="true" width="900" height="675"></iframe>
-
-<h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
-      <tags>
-        <tag>travel</tag>
       </tags>
   </entry>
 </search>
